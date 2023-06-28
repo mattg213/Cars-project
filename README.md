@@ -147,3 +147,9 @@ compiled_data_df['price'] = compiled_data_df['price'].astype(float)
 ```
 
 ## Creating the Database
+
+We created a database using sqlite and named it "cars.db".  The database is composed of tables: Makes, Models, Transmissions, Drive Types, and Listings.  We assigned primary key and variables according to this schema. 
+
+    *insert schema*
+
+
